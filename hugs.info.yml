@@ -1,0 +1,4 @@
+name: Hugs
+description: Example of hugs
+type: module
+core: 8.x
